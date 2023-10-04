@@ -1,10 +1,17 @@
-### Olá! Eu sou a Ayrlla Gabriela ✨
+### Oiê! Me chamo Ayrlla Gabriela ✨
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ayrllagabriela13@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrlla-gabriela-68372226a/) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ayrllagabriela)
+• Cursando o 1° semestre em Análise e Desenvolvimento de Sistemas
+
+• Uninassau
+
+<img align="right" height="200" style="margin-left: 25px" src="https://cdn.picrew.me/shareImg/org/202310/1349935_fqbcjkws.png" alt="Descrição da imagem">
+
 
 ![Ayrlla GitHub stats](https://github-readme-stats.vercel.app/api?username=ayrlla&show_icons=true&theme=synthwave)
 
-### Tecnologias que eu uso no meu dia: 
+### My Tools:
+
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
