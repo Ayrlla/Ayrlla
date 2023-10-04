@@ -2,16 +2,16 @@
 
 • Cursando o 1° semestre em Análise e Desenvolvimento de Sistemas
 
-• Uninassau
+• Uninassau<img align="right" height="200" style="margin-left: 25px" src="https://cdn.picrew.me/shareImg/org/202310/1349935_fqbcjkws.png" alt="Descrição da imagem">
 
-<img align="right" height="200" style="margin-left: 25px" src="https://cdn.picrew.me/shareImg/org/202310/1349935_fqbcjkws.png" alt="Descrição da imagem">
 
+
+
+
+
+### 🛠️ My Tools:
 
 ![Ayrlla GitHub stats](https://github-readme-stats.vercel.app/api?username=ayrlla&show_icons=true&theme=synthwave)
-
-### My Tools:
-
-
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
