@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+World,+My+name+is+Ayrlla+Gabriela;I'm+22+years+old;I'm+from+Brazil;+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### ✨About Me:
-<img align="right" height="200" style="margin-left: 25px" src="https://cdn.picrew.me/shareImg/org/202310/1349935_fqbcjkws.png" alt="minha imagem">
+<img align="right" height="200" style="margin-left: 25px" src="https://64.media.tumblr.com/60b4ccff89fc8af7b229a85d135baa44/1edcff1e6b21d91b-6d/s500x750/926b2d822ce61560b01e656f60b4045453808f52.gifv" alt="minha imagem">
+
 
 
 
@@ -37,16 +38,16 @@
 
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" /> 
-    <img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div> 
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ff91a4" />
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=ff91a4" />
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ff91a4" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff91a4" />
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=ff91a4" />
+    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=ff91a4" /> 
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=ff91a4" />
+    <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B&color=ff91a4" /> 
+    <img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&color=ff91a4" />
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=ff91a4" />
+</div>
 
 
