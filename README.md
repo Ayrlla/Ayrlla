@@ -22,4 +22,3 @@
 <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
 
-Na linguagem universal do código, encontro minha voz. Cada linha é um verso de inovação, e eu sou a autora da minha própria revolução tecnológica.
