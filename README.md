@@ -12,6 +12,7 @@
 - 📚 Cursando o 1° semestre em Análise e Desenvolvimento de Sistemas na Uninassau
 
 • Desenvolvedora Front-End & Designer Ui/UX 🖥️
+
 • Apaixonada por Ilustração digital e Motion Design 👾
 
 
