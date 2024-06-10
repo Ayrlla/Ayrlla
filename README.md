@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+World,+My+name+is+Ayrlla+!+:%29)](https://git.io/typing-svg)
 
-# ✨About Me:
+## ✨About Me:
 <img align="right" height="200" style="margin-left: 25px" src="https://64.media.tumblr.com/60b4ccff89fc8af7b229a85d135baa44/1edcff1e6b21d91b-6d/s500x750/926b2d822ce61560b01e656f60b4045453808f52.gifv" alt="minha imagem">
 
 
