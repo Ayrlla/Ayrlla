@@ -46,7 +46,9 @@ Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e i
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayrlla&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Ayrlla's Top Languages" />
 </div>
 
-[![Ayrlla's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayrlla&bg_color=a537fd&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/Ayrlla/github-readme-activity-graph)
+[![Ayrlla's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayrlla&bg_color=0d1117&color=b13583&line=b13583&point=a537fd&area=true&hide_border=true)](https://github.com/Ayrlla/github-readme-activity-graph)
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ayrlla&theme=dracula&row=2&column=3&margin-w=15&margin-h=15" />
