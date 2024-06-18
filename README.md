@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a537fd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ayrlla+!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a537fd&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ayrlla+!+:%29)](https://git.io/typing-svg)
 
 ## 💜 Olá, meu nome é Ayrlla!
 
@@ -42,7 +42,7 @@ Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e i
 ## 📈 GitHub Stats
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ayrlla&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ayrlla's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ayrlla&show_icons=true&count_private=true&hide_border=true&title_color=a537fd&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ayrlla's GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayrlla&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Ayrlla's Top Languages" />
 </div>
 
@@ -54,14 +54,14 @@ Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e i
 
 ---
 
-## 🌸 Contato
+## 💜 Contato
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/ayrlla-gabriela-68372226a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23b55a69?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="mailto:ayrllagabriela13@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23b55a69?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a537fd&height=120&section=footer"/>
 ```
 
 
