@@ -54,7 +54,7 @@ Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e i
 
 ---
 
-## 🌸 Contato
+## 📩 Contato
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/ayrlla-gabriela-68372226a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23a537fd?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
