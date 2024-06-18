@@ -7,7 +7,7 @@
 
 <img align="right" height="200" style="margin-left: 25px" src="https://64.media.tumblr.com/60b4ccff89fc8af7b229a85d135baa44/1edcff1e6b21d91b-6d/s500x750/926b2d822ce61560b01e656f60b4045453808f52.gifv" alt="minha imagem">
 
-Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e inovação. Estou cursando o 2° semestre em Análise e Desenvolvimento de Sistemas na Uninassau. Além disso, tenho uma paixão especial por ilustração digital e motion design.
+Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e inovação. Estou cursando o 2° semestre em Análise e Desenvolvimento de Sistemas na Uninassau. Além disso, tenho uma paixão especial por Engenharia de Dados.
 
 🔭 Atualmente, estou trabalhando em vários projetos interessantes e buscando novas oportunidades para colaborar e aprender.
 
@@ -24,10 +24,12 @@ Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e i
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=a3445b" />
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=a3445b" />
     <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=a3445b" /> 
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=a3445b" />
     <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B&color=a3445b" /> 
     <img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&color=a3445b" />
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=a3445b" />
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+
+
 </div>
 
 ---
