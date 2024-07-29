@@ -8,7 +8,7 @@
 
 <img align="right" height="200" style="margin-left: 25px" src="https://64.media.tumblr.com/60b4ccff89fc8af7b229a85d135baa44/1edcff1e6b21d91b-6d/s500x750/926b2d822ce61560b01e656f60b4045453808f52.gifv" alt="minha imagem">
 
-Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e inovação. Estou cursando o 2° semestre em Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau. Além disso, tenho uma paixão especial por Engenharia de Dados e AWS Cloud. 
+Sou uma desenvolvedora Front-End & Designer UI/UX, apaixonada por tecnologia e inovação. Estou cursando o 3° semestre em Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau. Além disso, tenho uma paixão especial por Engenharia de Dados e AWS Cloud. 
 
 🔭 Atualmente, estou trabalhando em vários projetos interessantes e buscando novas oportunidades para colaborar e aprender.
 
