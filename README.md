@@ -6,8 +6,7 @@
 
 ## 💜 Welcome!
 
-<img align="right" height="200" style="margin-left: 25px" src="![image](https://github.com/user-attachments/assets/e3722e6f-9eec-40e1-8701-df8e42a525fd)
-" alt="My image">
+
 
 I'm a Front-End Developer and UI/UX Designer passionate about technology and innovation. Currently pursuing a Bachelor's in Systems Analysis and Development at Centro Universitário Maurício de Nassau (4th semester). I also have a keen interest in Data Engineering and AWS Cloud.
 
