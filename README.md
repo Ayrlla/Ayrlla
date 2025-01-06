@@ -6,7 +6,8 @@
 
 ## 💜 Welcome!
 
-<img align="right" height="200" style="margin-left: 25px" src="https://64.media.tumblr.com/60b4ccff89fc8af7b229a85d135baa44/1edcff1e6b21d91b-6d/s500x750/926b2d822ce61560b01e656f60b4045453808f52.gifv" alt="My image">
+<img align="right" height="200" style="margin-left: 25px" src="![image](https://github.com/user-attachments/assets/e3722e6f-9eec-40e1-8701-df8e42a525fd)
+" alt="My image">
 
 I'm a Front-End Developer and UI/UX Designer passionate about technology and innovation. Currently pursuing a Bachelor's in Systems Analysis and Development at Centro Universitário Maurício de Nassau (4th semester). I also have a keen interest in Data Engineering and AWS Cloud.
 
