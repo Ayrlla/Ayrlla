@@ -8,7 +8,7 @@
 
 <p align="center">
   📚 Studying Systems Analysis and Development (4th semester)<br>
-  ☁️ Curious about Cloud Computing (AWS) and Data Engineering<br>
+  ☁️ Curious about Cloud Computing (AWS) <br>
   💡 Passionate about technology, design and building impactful solutions
 </p>
 
