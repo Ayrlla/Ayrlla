@@ -10,8 +10,8 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre).
-- 💡 Interesse por Cloud (AWS), Data Engineering e design centrado no usuário.
+- 🎓 Formanda de Análise e Desenvolvimento de Sistemas (4º semestre).
+- 💡 Interesse por Cloud (AWS), Data Engineering & Full-Stack
 - 🚀 Em constante evolução, buscando sempre criar soluções eficientes, funcionais e bonitas.
 
 ---
