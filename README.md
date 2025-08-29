@@ -2,7 +2,7 @@
 <h1 align="center">Ayrlla Gabriela</h1>
 
 <p align="center">
-  Front-End Developer | UI/UX Designer | Cloud & Data Enthusiast
+  Full-Stack Developer  | Cloud & Data Enthusiast
 </p>
 
 ---
