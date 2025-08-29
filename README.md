@@ -1,6 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a537fd&height=100&section=header"/>
 
-<h1 align="center">Ayrlla 👋</h1>
+<h1 align="center">Ayrlla Gabriela</h1>
 
 <p align="center">
   Front-End Developer | UI/UX Designer | Cloud & Data Enthusiast
