@@ -1,53 +1,42 @@
+<h1 align="center">Ayrlla Gabriela</h1> <p align="center"> Full‑Stack Developer | Cloud &amp; Data Enthusiast </p>
+✨ Sobre Mim
 
-<h1 align="center">Ayrlla Gabriela</h1>
+Sou uma desenvolvedora em formação, cursando Análise e Desenvolvimento de Sistemas no 4º semestre. Minha trajetória é marcada pela curiosidade em entender não apenas como construir software, mas como entregá‑lo de forma eficaz e escalável. Tenho interesse em Cloud Computing (principalmente AWS), engenharia de dados e desenvolvimento full‑stack. Acredito na importância de escrever código legível, em evoluir continuamente e em criar soluções que sejam eficientes, funcionais e esteticamente agradáveis.
 
-<p align="center">
-  Full-Stack Developer  | Cloud & Data Enthusiast
-</p>
+💻 Tecnologias e Ferramentas
 
----
+Atualmente trabalho e estudo com as seguintes tecnologias. Tento manter minha stack enxuta, buscando ser produtiva sem esquecer boas práticas:
 
-## Sobre mim
+<p align="center"> <!-- Linguagens --> <img src="https://img.shields.io/badge/HTML5-1D1A39?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5 badge"/> <img src="https://img.shields.io/badge/CSS3-1D1A39?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3 badge"/> <img src="https://img.shields.io/badge/JavaScript-1D1A39?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript badge"/> <img src="https://img.shields.io/badge/TypeScript-1D1A39?style=for-the-badge&amp;logo=typescript&amp;logoColor=007ACC" alt="TypeScript badge"/> <!-- Frontend --> <img src="https://img.shields.io/badge/React-1D1A39?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React badge"/> <img src="https://img.shields.io/badge/Next.js-1D1A39?style=for-the-badge&amp;logo=next.js&amp;logoColor=ffffff" alt="Next.js badge"/> <!-- Backend --> <img src="https://img.shields.io/badge/Node.js-1D1A39?style=for-the-badge&amp;logo=node.js&amp;logoColor=339933" alt="Node.js badge"/> <img src="https://img.shields.io/badge/Express.js-1D1A39?style=for-the-badge&amp;logo=express&amp;logoColor=ffffff" alt="Express.js badge"/> <img src="https://img.shields.io/badge/Python-1D1A39?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python badge"/> <!-- Cloud &amp; Data --> <img src="https://img.shields.io/badge/AWS-1D1A39?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=FF9900" alt="AWS badge"/> <img src="https://img.shields.io/badge/SQL-1D1A39?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1" alt="SQL badge"/> <img src="https://img.shields.io/badge/GraphQL-1D1A39?style=for-the-badge&amp;logo=graphql&amp;logoColor=E10098" alt="GraphQL badge"/> <!-- Ferramentas --> <img src="https://img.shields.io/badge/Docker-1D1A39?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker badge"/> <img src="https://img.shields.io/badge/Git-1D1A39?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git badge"/> <img src="https://img.shields.io/badge/Linux-1D1A39?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux badge"/> </p>
+🛠 Projetos Destacados
 
-- 🎓 Formanda de Análise e Desenvolvimento de Sistemas (4º semestre).
-- 💡 Interesse por Cloud (AWS), Data Engineering & Full-Stack
-- 🚀 Em constante evolução, buscando sempre criar soluções eficientes, funcionais e bonitas.
+Alguns projetos nos quais venho trabalhando ou que demonstram minhas habilidades:
 
----
+Plataforma de Cadastro de Eventos (React & Node.js) – Uma aplicação web para registro e gerenciamento de eventos, com interface intuitiva e API RESTful, implantada na AWS Elastic Beanstalk.
 
-## 💻 Tecnologias
+Painel de Monitoramento de Vendas (Next.js & GraphQL) – Dashboard interativo para visualização de métricas de vendas em tempo real, utilizando GraphQL para consultas eficientes e implementação de autenticação segura.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-1D1A39?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1D1A39?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-1D1A39?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-1D1A39?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-1D1A39?style=for-the-badge&logo=node.js&logoColor=43853D" />
-  <img src="https://img.shields.io/badge/Python-1D1A39?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/AWS-1D1A39?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-1D1A39?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</div>
+ETL de Dados de Sensores (Python & AWS Lambda) – Pipeline de extração, transformação e carga de dados de dispositivos IoT para o Amazon Redshift, com orquestração via AWS Step Functions.
 
----
+Se quiser ver mais projetos ou detalhes, confira meu portfólio ou meu GitHub. Estou sempre buscando desafios novos para aplicar e aprimorar meus conhecimentos.
 
-## 📊 GitHub Insights
+🤝 Contribuições e Valores
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayrlla&show_icons=true&hide_border=true&title_color=a537fd&icon_color=a537fd&text_color=c9d1d9&bg_color=1D1A39" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayrlla&layout=compact&hide_border=true&title_color=a537fd&text_color=c9d1d9&bg_color=1D1A39" />
-</div>
+Trabalho bem em equipe e acredito em contribuir para comunidades de desenvolvimento de forma ética e colaborativa. Minhas principais motivações são:
 
----
+Qualidade do Código: Busco códigos limpos, manuteníveis e bem testados.
 
-## 📬 Conecte-se
+Aprendizado Contínuo: O universo da tecnologia muda rapidamente; portanto, mantenho‑me em constante aprendizado por meio de cursos, certificações e projetos.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayrlla-gabriela-68372226a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-a537fd?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ayrllagabriela13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-a537fd?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+Compartilhar Conhecimento: Gosto de escrever artigos técnicos, tutoriais e mentorias informais, ajudando outras pessoas a ingressarem na área.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a537fd&height=100&section=footer"/>
+📫 Contato
+
+Se quiser trocar ideias, conversar sobre uma oportunidade ou sugerir parcerias, estou disponível nos canais abaixo:
+
+Plataforma	Contato
+LinkedIn	linkedin.com/in/ayrlla‑gabriela
+
+GitHub	github.com/ayrllagabriela
+
+Email	contato@ayrlla.dev
