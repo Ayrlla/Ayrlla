@@ -1,7 +1,7 @@
 <h1 align="center">Ayrlla Gabriela</h1> <p align="center"> Full‑Stack Developer | Cloud &amp; Data Enthusiast </p>
 ✨ Sobre Mim
 
-Sou uma desenvolvedora em formação, cursando Análise e Desenvolvimento de Sistemas no 4º semestre. Minha trajetória é marcada pela curiosidade em entender não apenas como construir software, mas como entregá‑lo de forma eficaz e escalável. Tenho interesse em Cloud Computing (principalmente AWS), engenharia de dados e desenvolvimento full‑stack. Acredito na importância de escrever código legível, em evoluir continuamente e em criar soluções que sejam eficientes, funcionais e esteticamente agradáveis.
+Formada em Análise e Desenvolvimento de Sistemas pela Uninassau Recife. Minha trajetória é marcada pela curiosidade em entender não apenas como construir software, mas como entregá‑lo de forma eficaz e escalável. Tenho interesse em Cloud Computing (principalmente AWS), engenharia de dados e desenvolvimento full‑stack. Acredito na importância de escrever código legível, em evoluir continuamente e em criar soluções que sejam eficientes, funcionais e esteticamente agradáveis.
 
 💻 Tecnologias e Ferramentas
 
@@ -39,4 +39,4 @@ LinkedIn	linkedin.com/in/ayrlla‑gabriela
 
 GitHub	github.com/ayrllagabriela
 
-Email	contato@ayrlla.dev
+Email	ayrllagabriela13@gmail.com
