@@ -26,3 +26,6 @@ Compartilhar Conhecimento: Gosto de escrever artigos técnicos, tutoriais e ment
 Ficarei feliz em conversar pelos canais abaixo:
 
 <br> <a href="https://www.linkedin.com/in/ayrlla-gabriela" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Ayrlla%20Gabriela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/ayrllagabriela" target="_blank"> <img src="https://img.shields.io/badge/GitHub-ayrllagabriela-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:ayrllagabriela13@gmail.com"> <img src="https://img.shields.io/badge/Email-ayrllagabriela13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
