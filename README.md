@@ -36,13 +36,6 @@ Acredito em código limpo, aprendizado contínuo e soluções eficientes — tan
 
 ---
 
-### 🤝 Valores
-
-- Código legível e bem estruturado  
-- Evolução constante  
-- Compartilhar conhecimento  
-
----
 
 ### 📫 Contato
 
